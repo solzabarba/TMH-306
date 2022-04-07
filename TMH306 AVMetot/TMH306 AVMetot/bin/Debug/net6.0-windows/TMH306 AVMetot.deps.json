@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TMH306 AVMetot/1.0.0": {
+        "runtime": {
+          "TMH306 AVMetot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TMH306 AVMetot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

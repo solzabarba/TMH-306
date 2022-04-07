@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modou_TMH306 Assignment", "Modou_TMH306 Assignment.csproj", "{FD9F5837-498F-47EF-9816-45D533EE2872}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMH306 AVMetot", "..\TMH306 AVMetot\TMH306 AVMetot\TMH306 AVMetot.csproj", "{9A482359-04B9-4CD1-A218-2E462A1D47E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9F5837-498F-47EF-9816-45D533EE2872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9F5837-498F-47EF-9816-45D533EE2872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9F5837-498F-47EF-9816-45D533EE2872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9F5837-498F-47EF-9816-45D533EE2872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A482359-04B9-4CD1-A218-2E462A1D47E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A482359-04B9-4CD1-A218-2E462A1D47E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A482359-04B9-4CD1-A218-2E462A1D47E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A482359-04B9-4CD1-A218-2E462A1D47E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FD4EB06-AB3F-414B-9327-C97C2A97D4F1}
+	EndGlobalSection
+EndGlobal

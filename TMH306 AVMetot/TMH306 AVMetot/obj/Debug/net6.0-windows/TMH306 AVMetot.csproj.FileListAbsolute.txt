@@ -1,0 +1,17 @@
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\bin\Debug\net6.0-windows\TMH306 AVMetot.exe
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\bin\Debug\net6.0-windows\TMH306 AVMetot.deps.json
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\bin\Debug\net6.0-windows\TMH306 AVMetot.runtimeconfig.json
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\bin\Debug\net6.0-windows\TMH306 AVMetot.dll
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\bin\Debug\net6.0-windows\TMH306 AVMetot.pdb
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.csproj.AssemblyReference.cache
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306_AVMetot.Form1.resources
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.csproj.GenerateResource.cache
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.AssemblyInfoInputs.cache
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.AssemblyInfo.cs
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.csproj.CoreCompileInputs.cache
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.dll
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\refint\TMH306 AVMetot.dll
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.pdb
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\TMH306 AVMetot.genruntimeconfig.cache
+C:\Users\saste\source\repos\TMH306 AVMetot\TMH306 AVMetot\obj\Debug\net6.0-windows\ref\TMH306 AVMetot.dll
